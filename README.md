@@ -1,1 +1,1 @@
-# cursova
+ARTELOGIC

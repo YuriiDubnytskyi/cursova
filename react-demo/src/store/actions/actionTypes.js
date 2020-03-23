@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.START_GAME_FOR_X = 'START_GAME_FOR_X';
+exports.START_GAME_FOR_O = 'START_GAME_FOR_O';
+exports.RESTART = 'RESTART';
+exports.WIN_GAME = 'WIN_GAME';
+exports.SET_POINT = 'SET_POINT';
+exports.ADD_USER = 'ADD_USER';
+exports.ADD_SCORE = 'ADD_SCORE';
+exports.EXIT = "EXIT";
