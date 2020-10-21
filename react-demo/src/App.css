@@ -5,4 +5,5 @@
 .row{
     display:flex;
     justify-content: space-around;
+    max-height: 500px;
 }
